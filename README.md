@@ -35,8 +35,10 @@ The script will scrape data from the specified URLs concurrently using asyncio a
 
 ### Database Schema
 The SQLite database stores the scraped data in a table with the following schema:
-
 -version (TEXT): Application version
+-
 -release_date (TEXT): Release date of the application version
+-
 -end_of_life_date (TEXT): End-of-life date of the application version
+-
 -latest (TEXT): Latest information
