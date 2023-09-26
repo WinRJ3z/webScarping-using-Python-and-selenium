@@ -1,7 +1,7 @@
 # webScarping-using-Python-and-selenium
 # Web Scraping with Selenium
 
-This Python program demonstrates web scraping using Selenium to extract data from the endoflife.date website. In this example, we are scraping end-of-life information for various applications based on the URLs provided in the code. This program is capable of running multiple scrapes concurrently using asyncio and storing the data in a SQLite database.
+This Python program demonstrates web scraping using Selenium to extract data from the ** endoflife.date ** website. In this example, we are scraping end-of-life information for various applications based on the URLs provided in the code. This program is capable of running multiple scrapes concurrently using asyncio and storing the data in a SQLite database.
 
 ## Prerequisites
 
@@ -17,10 +17,10 @@ Before running the script, make sure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/WinRJ3z/webScarping-using-Python-and-selenium
 ### Navigate to the project directory:
 
-    cd your-repo-name
+    cd webScarping-using-Python-and-selenium/learning/
 ### Modify the urls list in the script to include the URLs of the particular application in endoflife.date website you want to scrape:
 
     urls = [
