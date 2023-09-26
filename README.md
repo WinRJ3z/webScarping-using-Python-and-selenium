@@ -11,6 +11,7 @@ Before running the script, make sure you have the following:
 - Selenium library (`pip install selenium`)
 - Chrome WebDriver (download from [Chrome WebDriver](https://sites.google.com/chromium.org/driver/))
 - SQLite3 (usually comes with Python)
+- asyncio libbrary
 
 ## Usage
 
